@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/AlgoDataStructureCourseApp/main.csproj": {}
+    "/home/runner/AlgoDataStructureCourseFindNemo/main.csproj": {}
   },
   "projects": {
-    "/home/runner/AlgoDataStructureCourseApp/main.csproj": {
+    "/home/runner/AlgoDataStructureCourseFindNemo/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/AlgoDataStructureCourseApp/main.csproj",
+        "projectUniqueName": "/home/runner/AlgoDataStructureCourseFindNemo/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/AlgoDataStructureCourseApp/main.csproj",
+        "projectPath": "/home/runner/AlgoDataStructureCourseFindNemo/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/AlgoDataStructureCourseApp/obj/",
+        "outputPath": "/home/runner/AlgoDataStructureCourseFindNemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
