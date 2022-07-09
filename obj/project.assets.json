@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/AlgoDataStructureCourseFindNemo/main.csproj",
+      "projectUniqueName": "/home/runner/AlgoDataStructureCourseExamples/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/AlgoDataStructureCourseFindNemo/main.csproj",
+      "projectPath": "/home/runner/AlgoDataStructureCourseExamples/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/AlgoDataStructureCourseFindNemo/obj/",
+      "outputPath": "/home/runner/AlgoDataStructureCourseExamples/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
