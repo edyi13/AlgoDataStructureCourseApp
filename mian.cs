@@ -89,8 +89,6 @@ return Boolean
     return false;
   }
   
-  
-  
   public static void Main (string[] args) {
     string[] nemo = new string[] {"nemo"};
     string[] fish = new string[] {"dory", "bruce", "marlin", "nemo"};
@@ -116,7 +114,7 @@ return Boolean
     
     string[] arr3 = new string[] {"a",null,"c","x"};		
 		string[] arr4 = new string[] {"z","y","x"};
-    var result = containsCommonItem(arr3, arr4);
+   var result = containsCommonItem(arr3, arr4);
      //Big O notation = 0(a+b) --> Linear Time	Because arrays have different length
     Console.WriteLine(result);
 
